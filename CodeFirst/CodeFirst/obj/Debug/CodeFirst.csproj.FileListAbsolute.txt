@@ -16,3 +16,4 @@ C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrati
 C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.AddCategoryTable.resources
 C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.AddCategoriesTable.resources
 C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.AddCategoryColumnToCoursesTable.resources
+C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.AddDatePublishedColumnToCoursesTable.resources

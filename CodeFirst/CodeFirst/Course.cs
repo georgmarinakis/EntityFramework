@@ -15,6 +15,8 @@ namespace CodeFirst
 
         public Category Category { get; set; }
 
+        public DateTime? DatePublished { get; set; }
+
         public CourseLevel Level { get; set; } // navigation property
 
         public float FullPrice { get; set; }
