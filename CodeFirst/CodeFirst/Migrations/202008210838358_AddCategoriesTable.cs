@@ -16,6 +16,7 @@
                     })
                 .PrimaryKey(t => t.Id);
 
+            //Sql Method
             Sql("INSERT INTO Categories VALUES (1, 'Web Development')");
             Sql("INSERT INTO Categories VALUES (2, 'Programming Languages')");
 

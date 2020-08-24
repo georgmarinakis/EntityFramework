@@ -3,7 +3,7 @@
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class AddCategoryTable : DbMigration
+    public partial class InitialModelReset : DbMigration
     {
         public override void Up()
         {

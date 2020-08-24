@@ -7,13 +7,13 @@ namespace CodeFirst.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.4.4")]
-    public sealed partial class InitialModel : IMigrationMetadata
+    public sealed partial class DeleteDatePublishedColumnFromCoursesTable : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(InitialModel));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(DeleteDatePublishedColumnFromCoursesTable));
         
         string IMigrationMetadata.Id
         {
-            get { return "202008201114256_InitialModel"; }
+            get { return "202008240748483_DeleteDatePublishedColumnFromCoursesTable"; }
         }
         
         string IMigrationMetadata.Source

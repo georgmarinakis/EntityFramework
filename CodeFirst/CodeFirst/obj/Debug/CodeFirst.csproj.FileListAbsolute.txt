@@ -10,10 +10,13 @@ C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.
 C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
 C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.exe
 C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.pdb
-C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialModel.resources
 C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.csproj.GenerateResource.cache
-C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialModel1.resources
-C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.AddCategoryTable.resources
 C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.AddCategoriesTable.resources
 C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.AddCategoryColumnToCoursesTable.resources
 C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.AddDatePublishedColumnToCoursesTable.resources
+C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.InitialModelReset.resources
+C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.RenameTitleToNameInCourseTable.resources
+C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.DeleteDatePublishedColumnFromCoursesTable.resources
+C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.DeleteCaegoryColumnFromCoursesTable.resources
+C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.DeleteCategoriesTable.resources
+C:\Users\gmarinakis\source\repos\CodeFirst\CodeFirst\obj\Debug\CodeFirst.Migrations.PopulateCategoriesTable.resources

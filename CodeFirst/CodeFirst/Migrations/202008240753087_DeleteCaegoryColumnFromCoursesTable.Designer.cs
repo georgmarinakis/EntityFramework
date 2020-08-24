@@ -7,13 +7,13 @@ namespace CodeFirst.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.4.4")]
-    public sealed partial class InitialModel1 : IMigrationMetadata
+    public sealed partial class DeleteCaegoryColumnFromCoursesTable : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(InitialModel1));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(DeleteCaegoryColumnFromCoursesTable));
         
         string IMigrationMetadata.Id
         {
-            get { return "202008210815204_InitialModel1"; }
+            get { return "202008240753087_DeleteCaegoryColumnFromCoursesTable"; }
         }
         
         string IMigrationMetadata.Source
